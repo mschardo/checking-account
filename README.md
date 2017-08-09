@@ -1,4 +1,4 @@
-# Balance Exercise - Simple API with basic feature of checking accounts
+# Balance Exercise - Simple API with basic features of checking accounts
 
 
 ## Features
